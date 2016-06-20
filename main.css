@@ -1,0 +1,39 @@
+html {
+    height: 100%; width: 100%;
+}
+body {
+    width: 100%; height: 100%;
+    margin: 0; padding: 0; border: 0;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px; line-height: 15px;
+    background: #EEE4B9;
+}
+
+#header {
+    height: 70px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    background: #1ff46C;
+    color: #0055DD;
+}
+#header h1 {
+    float: left;
+    padding: 1em;
+    margin: 0;
+}
+#header p {
+    font-size: 1.5em;
+    float: right;
+    padding: 1em;
+    margin: 0;
+}
+#form_login  {
+    padding: 2em;
+    margin: 0;
+}
+
+td {
+    padding: 0 1em;
+    margin: 0;
+}
